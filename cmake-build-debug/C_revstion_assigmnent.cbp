@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_revstion_assigmnent"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_revstion_assigmnent">
+				<Option output="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug/C_revstion_assigmnent" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_revstion_assigmnent"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_revstion_assigmnent/fast">
+				<Option output="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug/C_revstion_assigmnent" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_revstion_assigmnent/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C\ revstion\ assigmnent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/main.c">
+			<Option target="C_revstion_assigmnent"/>
+		</Unit>
+		<Unit filename="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

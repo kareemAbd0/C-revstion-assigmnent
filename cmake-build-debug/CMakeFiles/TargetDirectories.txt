@@ -1,0 +1,3 @@
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug/CMakeFiles/C_revstion_assigmnent.dir
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/C revstion assigmnent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
