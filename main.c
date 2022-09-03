@@ -77,7 +77,7 @@ void sum_of_digits (int number)
 
 }
 
-void power (int number_1,int number_2)
+long power (int number_1,int number_2)
 {
     long result = 1;
     for (int i = 0; i < number_2 ; ++i)
@@ -86,7 +86,7 @@ void power (int number_1,int number_2)
     }
 
     printf("%ld",result);
-
+    return result;
 
 }
 
@@ -185,18 +185,35 @@ void min_max_returens (int *arr,int * min ,int * max, int size)
 
 void bi_to_dec (char * bi)
 {
-    int dec;
+    long dec;
     int i = 0;
-    while (bi[i] != '\0')
+    int j =0;
+    int size = 0;
+    while (bi[j] != '\0')
     {
-        
-
-
+        size++;
+        j++;
     }
+
+    for (int k = size-1,po = 0; k >=0 ; --k)
+    {
+     if(bi[k] == '1')
+     {
+         dec+= power(2,po);
+     }
+     po++;
+    }
+
+    printf("        answer is %ld",dec);
 
 }
 
+void find_nth_bit(int number,int place)
+{
+    printf("bit %d is set to %d",place,((number&(1<<place))>>place));
 
+
+}
 
 
 
@@ -238,6 +255,12 @@ int main() {
 //    int min,max;
 //    min_max_returens(arr,&min,&max,size);
 
+
+//char bin [] = "101101";
+//    bi_to_dec(bin);
+
+
+ //   find_nth_bit(10,3);
 
 
 
